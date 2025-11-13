@@ -1,0 +1,35 @@
+* {
+	color: black;
+	font-family: "Georgia", sans-serif;
+}
+
+body {
+	align-items: center;
+	text-align: center;
+	background: url(https://www.pixelstalk.net/wp-content/uploads/images5/Aesthetic-Cloud-Desktop-Background.jpg);
+    background-size: cover;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    background: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(50px);
+}
+
+.div {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+    background: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(50px);
+}
